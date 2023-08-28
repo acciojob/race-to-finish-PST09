@@ -26,5 +26,3 @@ Promise.any(promises)
 	.catch((error) => {
 		console.error("All promises rejected:", error);
 	});
-// Do not change the code above this
-// add your promises to the array `promises`
